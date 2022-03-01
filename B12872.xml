@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation charging all Iesuites, seminaries, &amp;c. to depart the land.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12872</idno>
+            <idno type="STC">STC 8726</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[15]</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[249]</idno>
+            <idno type="EEBO-CITATION">99891141</idno>
+            <idno type="PROQUEST">ocm99891141</idno>
+            <idno type="VID">188169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188169)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[15]; C14:1[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation charging all Iesuites, seminaries, &amp;c. to depart the land.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. M.DC.XXIIII. [1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"On the petition of Parliament, all Jesuits, Seminary Priests, and persons in Romish Orders are to leave England before 14th June next on pain of punishment by law. No one to harbour them. All Archbishops, Judges, &amp;c., to be vigilant in execution of this." -- Steele.</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... Greenewich, the sixt day of May, in the two and twentieth yeere of His Maiesties reigne ... .</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele notation: knowledge, within 2) behalfe they; Arms 12</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  Legal status, laws, etc. --  Great Britain --  Early works to 1800.</term>
+               <term>Catholics --  Legal status, laws, etc. --  Great Britain --  Early works to 1800.</term>
+               <term>Theological seminaries --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188169:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ A Proclamation charging all Ieſuites, Seminaries, &amp;c. to depart the Land.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent Maieſtie, taking knowledge,</hi> aſwell by the humble Petition and Aduice of the Lords Spi<g ref="char:EOLhyphen"/>rituall and Temporall, and Commons now aſſembled in Parliament, as otherwiſe, of the manifold Inconueniences and dangers, occaſioned by the multitude of Ieſuites, Se<g ref="char:EOLhyphen"/>minary Prieſtes, and others, that haue taken Orders by authority deriued from the Sea of <hi>Rome,</hi> now harboured within this Realme, and by their Boldneſſe and Inſolencie, in Seducing and withdrawing His Maieſties Subiects, not onely from the Religion here eſtabliſhed, but alſo from their Obedience and Allegiance to His Maieſtie, hath thought good (for aboliſhing of this growing euill, and preuention of the like in time to come) hereby to publiſh His Royall pleaſure; And doth by this his Proclamation ſtrictly charge and command all Ieſuites, Seminary Prieſts, and all others that haue taken Orders by any authority deriued from the Sea of <hi>Rome,</hi> now reſident, or being within this His Maieſties Realme of <hi>England,</hi> or the Dominion of <hi>Wales,</hi> That they, and euery of them, doe before the fourteenth day of Iune next enſuing the date here<g ref="char:EOLhyphen"/>of, make their repaire to ſome of His Maieſties Ports within the ſaid Realme or Domi<g ref="char:EOLhyphen"/>nion, and from thence to Tranſport themſelues out of the ſame, with the firſt oppor<g ref="char:EOLhyphen"/>tunitie of Winde and Weather, into ſome forreine parts beyond the Sea, and neuer after to returne into this Realme; And that all other Ieſuites, Seminary Prieſtes, and others, hauing taken Orders by authority deriued from the Sea of <hi>Rome,</hi> doe wholly forbeare, at any time hereafter to come within this His Maieſties Realme of <hi>England,</hi> or Dominion of <hi>Wales,</hi> vpon paine, that all ſuch as ſhall bee found within this Realme, or Dominion of <hi>Wales,</hi> after the ſaid fourteenth day of Iune, ſhall vnder<g ref="char:EOLhyphen"/>goe the vttermoſt ſeuerity and puniſhment, which by the Lawes, in that behalfe made, can bee inflicted vpon them: And alſo, that no perſon, or perſons whatſoe<g ref="char:EOLhyphen"/>uer, within this His Maieſties Realme, or the Dominion of <hi>Wales,</hi> doe, after the ſaid foureteenth day of Iune next, harbour, entertaine, receiue, relieue, or cheriſh any ſuch Ieſuite, Seminary Prieſt, or other perſon, hauing taken Orders by authoritie deriued from the ſaid Sea of <hi>Rome,</hi> vpon paine, that euery perſon offending therein, contrary to this His Maieſties Proclamation, ſhall vndergoe the vttermoſt ſeuerity of the Lawes prouided for ſuch offences.</p>
+            <p>And for the better execution of theſe His Maieſties directions, and Royall pleaſure ſignified hereby, His Maieſtie doeth Will, Require and Command, all and ſingu<g ref="char:EOLhyphen"/>lar Archbiſhops, Biſhops, Lord Lieutenants, Iudges, Iuſtices of Aſſiſe, de<g ref="char:EOLhyphen"/>puty Lieutenants, Iuſtices of Peace, and all other His Officers, and Miniſters whatſoeuer, to bee vigilant and carefull to doe their dueties and diligence in diſcoue<g ref="char:EOLhyphen"/>ring and apprehending of all the ſaid Ieſuites, Seminary Prieſtes, and all others offending in any the Premiſſes, after the ſaid foureteenth day of Iune, and to cauſe all the Lawes and Statutes of this Realme, now in force againſt them, or any of them, without fauour, to bee put in due and exact execution againſt them, as they tender His Maieſties pleaſure, and will anſwere the contrary.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at the Court at Greenewich, <date>the ſixt day of May, in the two and twentieth yeere of His MAIESTIES Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON and IOHN BILL, Printers to the Kings moſt Excellent Maieſtie. ANNO DOM. M.DC.XXIIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
